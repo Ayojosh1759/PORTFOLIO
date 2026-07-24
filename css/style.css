@@ -989,7 +989,7 @@ a, a:hover {
 
 .portfolio-item .wrap-icon, .blog-item .wrap-icon {
   position: absolute;
-  right: 20px;
+  right: 60px;
   color: #fff;
   top: 20px;
 }
@@ -998,7 +998,7 @@ a, a:hover {
   position: absolute;
   bottom: 20px;
   left: 20px;
-  right: 40px;
+  right: 20px;
 }
 
 .portfolio-item .portfolio-item-content h3, .portfolio-item .portfolio-item-content p, .blog-item .portfolio-item-content h3, .blog-item .portfolio-item-content p {
